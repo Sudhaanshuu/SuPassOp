@@ -1,0 +1,18 @@
+import React from 'react'
+
+const Navbar = () => {
+    return ( <
+        nav className = 'bg-purple-500' >
+
+        <
+        ul >
+        <
+        li > < /li> <
+        /ul>
+
+        <
+        /nav>
+    )
+}
+
+export default Navbar
